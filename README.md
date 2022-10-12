@@ -26,6 +26,6 @@ ng-modal
 
 ## Contact Link
 
-[telegram] (https://t.me/ProDev1205)
+[telegram] (https://t.me/rabiter1)
 
-[Skype] (https://join.skype.com/invite/xAHPnMKaZkkk)
+[Skype] (live:.cid.43fef3ce653bc92b)
