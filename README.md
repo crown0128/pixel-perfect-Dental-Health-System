@@ -6,7 +6,7 @@ I worked with Mr. Steven who funderand director of SMILE RIGHT PTY LTD and it's 
 # how to run the app 
 - first u need to install nodejs v12 , download it from the [link](https://nodejs.org/dist/latest-v12.x/). 
 - install git from the [link](https://git-scm.com/downloads).
-- clone the project ` git clone https://github.com/smileright/public.git`
+- clone the project ` https://github.com/briltec/Dental-Health-System.git`
 - go to the project folder ` public/main `  and run `npm install` or `yarn install`
 - to run the app `npm run start`
 - open the link `http://localhost:5000/` , you will find an index of all pages and link/path of each component there
