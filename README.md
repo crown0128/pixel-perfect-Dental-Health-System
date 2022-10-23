@@ -25,7 +25,3 @@ ng-modal
 ![Frame 5](https://user-images.githubusercontent.com/86986628/130814145-2e83d80a-a899-4224-8535-0d9456c340ae.png)
 
 ## Contact Link
-
-[telegram] (https://t.me/rabiter1)
-
-[Skype] (live:.cid.43fef3ce653bc92b)
