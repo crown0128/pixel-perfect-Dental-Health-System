@@ -1,6 +1,6 @@
 This is Anuglar project
 
-# SmileLight
+# SmileRight
 I worked with Mr. Steven who funderand director of SMILE RIGHT PTY LTD and it's dentis website and build by angular and Node.
 
 # how to run the app 
